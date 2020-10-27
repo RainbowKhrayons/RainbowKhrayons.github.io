@@ -1,0 +1,4 @@
+Sitemap: https://rainbowkhrayons.github.io/sitemap.txt
+User-agent: *
+Disallow: /none/
+Allow: /
